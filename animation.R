@@ -1,4 +1,4 @@
-#script to create a gif of text data
+#script to create a gif of text very nice data 
 rm(list=ls())
 setwd("/Users/rachel_wilkerson/Box Sync/RLW THI Projects/texting tool/")
 df<-read.csv("Texas Full Texting Report.csv",stringsAsFactors = F,strip.white = T)
